@@ -1,4 +1,5 @@
-# data cleaning and prepocessinh 
+# example of all code I have used for my thesis. 
+# data cleaning and prepocessing 
 
 import pandas as pd
 import numpy as np
